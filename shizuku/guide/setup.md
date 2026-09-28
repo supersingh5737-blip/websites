@@ -1,4 +1,4 @@
-# User manual
+# Usadb shell /data/app/~~biJbe12INY2N3V4NfcbISQ==/moe.shizuku.privileged.api-f5-JE2WnnlBGbpX1XaS7Kw==/lib/arm64/libshizuku.soer manual
 
 [[toc]]
 
